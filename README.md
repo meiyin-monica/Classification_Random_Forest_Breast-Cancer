@@ -16,3 +16,7 @@ The Wisconsin Diagnostic Breast Cancer (WDBC) dataset is used to diagnose breast
 # References:
 1. https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 2. https://www.kaggle.com/code/eslamhani/breast-cancer-wisconsin-diagnostic
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email :
+linkedin.com/in/meiyin-monica-amilia-putri-047438288
+
